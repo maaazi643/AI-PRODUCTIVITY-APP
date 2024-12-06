@@ -13,6 +13,12 @@ function Sidebar() {
   const menuOptions = (
     <>
       <NewDocumentButton />
+
+      {/* My dic */}
+      {/* List */}
+
+      {/* Shared with me */}
+      {/* List */}
     </>
   );
   return (
